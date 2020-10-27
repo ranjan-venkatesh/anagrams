@@ -5,7 +5,7 @@ List all anagrams of words contained within a file. Two words are defined as ana
 
 Given an input file which contains one word per line, as an output construct a list of all anagrams fromthat input file. Print those words to the console, where all words that are an anagram should each other should be on the same line. 
 
-As an example, given the sample.txt file: 
+**As an example, given the sample.txt file :* 
 
 act
 
@@ -21,7 +21,7 @@ acre
 
 bee
 
-the output should be: 
+**expected output is :** 
 
 act cat
 
